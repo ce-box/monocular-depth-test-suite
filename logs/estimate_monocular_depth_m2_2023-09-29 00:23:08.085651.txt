@@ -1,0 +1,6 @@
+Performance metrics for 'estimate_monocular_depth_m2':
+  - Execution time: 128.57 seconds
+  - CPU usage: 30.10%
+  - Virtual memory usage: 0.30%
+  - Disk usage: 0.00%
+

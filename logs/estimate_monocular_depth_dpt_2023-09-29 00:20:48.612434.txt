@@ -1,0 +1,6 @@
+Performance metrics for 'estimate_monocular_depth_dpt':
+  - Execution time: 63.58 seconds
+  - CPU usage: 46.50%
+  - Virtual memory usage: 5.10%
+  - Disk usage: 0.00%
+
