@@ -88,9 +88,9 @@ def copy_dataset_to_input_dir():
 
 
 def clean_input_dir():
-    input_files = os.listdir(tmp_dir)
+    input_files = os.listdir(input_dir)
     for file in input_files:
-        os.remove(f"{tmp_dir}{file}")
+        os.remove(f"{input_dir}{file}")
     print("Input directory cleaned")
 
 

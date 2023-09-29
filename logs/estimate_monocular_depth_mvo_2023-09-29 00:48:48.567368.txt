@@ -1,0 +1,6 @@
+Performance metrics for 'estimate_monocular_depth_mvo':
+  - Execution time: 10.46 seconds
+  - CPU usage: 7.80%
+  - Virtual memory usage: 4.70%
+  - Disk usage: 0.00%
+
